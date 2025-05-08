@@ -1,0 +1,4 @@
+# .gitignore
+*.log
+dvmkv2mp4
+required_files/tessdata.tar.gz

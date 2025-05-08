@@ -1,0 +1,7 @@
+.gitignore
+.github
+build_image.sh
+build.log
+required_files/tessdata.tar.gz
+dvmkv2mp4
+README.md
